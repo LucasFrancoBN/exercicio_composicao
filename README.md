@@ -44,7 +44,7 @@ Antes de prosseguir com as instruções de uso, é requerido que você tenha em 
 Antes de tudo, recomendo que você, pelo terminal, navegue até o diretório Desktop e rode o comando
 ```bash
 # Clone o repositório
-git clone https://github.com/LucasFrancoBN/combate-java.git
+git clone https://github.com/LucasFrancoBN/exercicio_composicao.git
 
 # Acesse o diretório da classe Program
 cd combate-java/src/application
