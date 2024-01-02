@@ -56,7 +56,7 @@ javac Program.java ../entities/enums/WorkerLevel.java ../entities/Department.jav
 ```
 Retroceda ao diretório src e compile o programa
 ```
-# Retrocedendo ao diretório src
+# Retroceda ao diretório src
 cd ../
 
 # Execute o programa
