@@ -52,7 +52,7 @@ cd exercicio_composicao/src/application
 Agora basta você digitar no seu terminal
 ```bash
 # Compile o projeto
-javac Program.java ../entities/Champion.java
+javac Program.java ../entities/enums/WorkerLevel.java ../entities/Department.java ../entities/HourContract.java ../entities/Worker.java
 ```
 Retroceda ao diretório src e compile o programa
 ```
