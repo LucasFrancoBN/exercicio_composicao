@@ -3,7 +3,7 @@ Ler os dados de um colaborador com N contratos. Depois, solicitar o mês e mostr
 
 1. **Seguir o seguinte diagrama de classe:**
    
-   ![Diagrama de classe](https://github.com/LucasFrancoBN/combate-java/blob/master/img/diagrama_classe.png)
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/exercicio_composicao/blob/master/img/diagrama_classe.png)
     
 
 ## Exemplo
